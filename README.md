@@ -9,12 +9,13 @@ Online Event Platform application build in Ignite Lab
 
 ## Techs utilizadas
 
-- React;
-- Tailwind;
-- TypeScript;
-- GraphQL;
-- GraphCMS;
-- Vite;
+- React
+- Tailwind
+- TypeScript
+- GraphQL
+- GraphCMS
+- Vite
+- Codegen GraphQL
 
 ## Rodando localmente
 
